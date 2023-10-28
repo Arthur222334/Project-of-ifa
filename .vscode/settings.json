@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
         "Ying"
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
